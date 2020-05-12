@@ -1,0 +1,10 @@
+Automate Leads
+Hi there. It’s so great to have you on board! This last year has been pretty crazy. Thanks to RainbowBots, we have a ton of new leads. That’s fantastic, but we’re actually having a hard time managing our leads now. 
+There are two main reasons: we’re creating leads where there’s no fit with our offerings, and we’re losing time getting promising leads assigned to the right team. 
+The first issue is the leads where there’s no fit. We’re a US-based company, and for now we can only do business in the United States. I can’t do anything with international leads. But sometimes international leads get entered into Salesforce anyway, and then we have to go in and disqualify them. Dealing with those disqualified leads costs us time. Is there any way you can prevent a lead from being created if the lead isn’t located in a US state? 
+Also I know there’s a State/Province field and a country field in Salesforce. Can you make sure that all leads have the standard 2-character US state abbreviation in the State/Province field and either US, USA, United States, or nothing in the Country field? OK, so that’s the first issue. 
+The second issue is routing leads to the right group. We have two sales teams: Rainbow Sales and Assembly System Sales. Last year we created a new website to promote our RainbowBots. The Rainbow sales team should be handling all the leads that come from the web. A bunch of other leads come from our partners and from lists that we buy--all those leads are potential buyers of our assembly systems. So the Assembly System team should get those leads.
+Right now, I’m the one who checks each lead as it comes in, and then I assign it to the right team member. It would be great if you could make sure that leads from the website get assigned to the Rainbow Sales team, and leads from partners and purchased lists get assigned to Assembly System Sales. 
+If each group had a queue in Salesforce they could work from as the leads come in that would be best. Thank you! 
+
+
